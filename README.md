@@ -33,13 +33,9 @@ Notes:
 * The first three lines are headers. They are used to specify the from, bcc, and subject area fields
 * Available email template replacement values are:
  * lastname
- * to 
+ * to (instructor's email address)
  * coursenum-sect
  * dept
  * url
  * term
  * nameterm
- * subjectarea
- * userid
- * srs
- * block
