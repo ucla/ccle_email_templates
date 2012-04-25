@@ -5,8 +5,9 @@ Course creator email templates should be name in the following convention:
 
 {subject area}_course_setup_email.txt
 
-If course creator cannot find an email template for that subject area it 
-will look for a file called DEFAULT_course_setup_email.txt.
+Subject area is assumed to be in all caps. If course creator cannot find an 
+email template for that subject area it will look for a file called 
+DEFAULT_course_setup_email.txt.
 
 Here is an example email template:
 
