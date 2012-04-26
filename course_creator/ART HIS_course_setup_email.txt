@@ -1,5 +1,5 @@
 FROM: CCLE <ccle@ucla.edu>
-Bcc: Michelle Bumatay (michelleitc@humnet.ucla.edu)
+BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
 Dear Professor #=lastname=#,
  
