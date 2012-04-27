@@ -12,18 +12,19 @@ DEFAULT_course_setup_email.txt.
 Here is an example email template:
 
     FROM: CCLE <ccle@ucla.edu>
-    Bcc: Kearney, Deborah (dkearney@oid.ucla.edu)
+    BCC: Rex Lorenzo <rex@oid.ucla.edu>
     SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
     Dear Prof. #=lastname=# (#=to=#)
 
     Your #=nameterm=# CCLE course web site for #=dept=# #=coursenum-sect=# is:
     #=url=#
 
-    You can now login to your course with your UCLA Logon ID and password, just as you would access your
-    My.UCLA. Your course will be populated with students over the next 24 hours. For help:
+    You can now login to your course with your UCLA Logon ID and password, just as 
+    you would access your My.UCLA. 
 
-        * Contact your CCLE local support listed at https://ccle.ucla.edu/about/contact.html .
-        * Find CCLE help documentation at https://ccle.ucla.edu/course/view.php?name=cclehelp .
+    For help:
+    * Contact your CCLE local support listed at https://pilot.ccle.ucla.edu/course/view.php?id=110&topic=8
+    * Find CCLE help documentation at https://pilot.ccle.ucla.edu/course/view.php?id=110&topic=1
 
     Thank you,
 
