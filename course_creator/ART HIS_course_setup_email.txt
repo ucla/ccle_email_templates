@@ -1,4 +1,4 @@
-FROM: CCLE <ccle@ucla.edu>
+FROM: CDH ITC <itc@humnet.ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
 Dear Professor #=lastname=#,
@@ -13,13 +13,13 @@ site (i.e. multi-listed, cross-listed, or unofficially joined courses), or if
 you notice any errors in the site.  You can reach me at 
 jasonitc@humnet.ucla.edu.
 
-As the Instructional Technology Consultant for ALC, I am available to answer 
-any questions that you may have about your course website, CCLE in general, or 
-any other aspect of instructional technology.  Please be aware, however, that I 
-only work part-time, and if you should not receive an answer to an email in a 
-timely fashion, you can email itc@humnet.ucla.edu, an account which is 
-monitored every workday from 10AM to 4PM, or you can call the ITC lab at 
-(310) 825-4864 (x54864 on campus).
+As the Instructional Technology Consultant for Art History, I am available to 
+answer any questions that you may have about your course website, CCLE in 
+general, or any other aspect of instructional technology.  Please be aware, 
+however, that I only work part-time, and if you should not receive an answer 
+to an email in a timely fashion, you can email itc@humnet.ucla.edu, an account 
+which is monitored every workday from 10AM to 4PM, or you can call the ITC lab 
+at (310) 825-4864 (x54864 on campus).
 
 You may notice that this course site does not appear under your regular list of 
 courses at CCLE “My Sites.”  This is because CCLE is in the process of 

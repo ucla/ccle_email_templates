@@ -1,4 +1,4 @@
-FROM: CCLE <ccle@ucla.edu>
+FROM: CDH ITC <itc@humnet.ucla.edu>
 Bcc: Michelle Bumatay (michelleitc@humnet.ucla.edu)
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
 Dear Professor #=lastname=#,
