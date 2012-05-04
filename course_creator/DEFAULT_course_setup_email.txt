@@ -1,4 +1,4 @@
-FROM: CDH ITC <itc@humnet.ucla.edu>
+FROM: CCLE <ccle@ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
 Dear Prof. #=lastname=# (#=to=#)
