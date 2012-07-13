@@ -1,59 +1,68 @@
-FROM: CDH ITC <itc@humnet.ucla.edu>
+FROM: Soyeon Kim <soyeonitc@humnet.ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
+
 Dear Professor #=lastname=#,
- 
-Greetings!  Your SUMMER 2012 course website for #=dept=# #=coursenum-sect=# 
-has been created and can be accessed at the following link: 
+
+Greetings!  You are receiving this email because you are the instructor of
+record for #=dept=# #=coursenum-sect=#. Your FALL 2012 course website has been
+created and can be accessed at the following link:
 
 #=url=#
- 
-Please let me know if any additional courses need to be linked to this class 
-site (i.e. multi-listed, cross-listed, or unofficially joined courses), or if 
-you notice any errors in the site.  You can reach me at 
-pjitc@humnet.ucla.edu.
 
-As the Instructional Technology Consultant for Honors Collegium, I am available 
-to answer any questions that you may have about your course website, CCLE in 
-general, or any other aspect of instructional technology.  Please be aware, 
-however, that I only work part-time, and if you should not receive an answer 
-to an email in a timely fashion, you can email itc@humnet.ucla.edu, an account 
-which is monitored every workday from 10AM to 4PM, or you can call the ITC lab 
-at (310) 825-4864 (x54864 on campus).
+Please contact me if this course is cross-listed, multi-listed, or unofficially
+joined to another course and you would like one website for both courses.
 
-You may notice that this course site does not appear under your regular list of 
-courses at CCLE “My Sites.”  This is because CCLE is in the process of 
-upgrading its underlying operating system from Moodle 1.9 to Moodle 2, and all 
-Summer 2012 course websites have been built on the new system.  On June 17th, 
-before instruction begins for Summer Sessions, all sites will be moved to the 
-main CCLE server.  In the meantime, you can access the new site via MyUCLA 
-(http://my.ucla.edu/) or the Registrar’s course website links 
-(http://registrar.ucla.edu/schedule/schedulehome.aspx), in addition to the 
-link above.  From the instructor’s perspective, the only major change between 
-the two systems will be the process by which you reuse a previous term’s course 
-website; if you are accustomed to doing that yourself, you will need to ask me 
-to do it for you until the transition between the two systems is complete.
+As your Instructional Technology Consultant (ITC), I am happy to answer any
+questions that you may have about your course website, CCLE in general, or any
+other aspect of instructional technology.  Just email me at
+soyeonitc@humnet.ucla.edu.  Since I only work part-time, you can also always
+reach someone on the ITC team between 11AM and 3PM on weekdays by emailing
+itc@humnet.ucla.edu or phoning 310-825-4864 (x54864 on campus).
 
-You can visit the Moodle 2 Pilot site (https://pilot.ccle.ucla.edu/) to learn 
-more about the exciting new features in Moodle 2, and I’m happy to meet and 
-train you individually in the system.  Alternatively, you can attend one of our 
-upcoming events:
+You may notice that this course site looks different from previous CCLE course
+websites.  CCLE has recently been upgraded, and all Fall 2012 course websites
+have been built on the new Moodle 2 system.  Moodle 2 brings with it many
+exciting new features, including the ability to drag and drop files into a
+website, connect to external file repositories like Dropbox and Google Docs, and
+more easily grant access to your course websites by non-enrolled students. 
+Please expect the user interface to continue changing incrementally throughout
+the summer, as more of these features are tested and implemented on the CCLE
+system.
 
-• Faculty Brown Bag Lunch on Wednesday, May 23, from 12PM to 12:50PM, in Anderson A301
-• Faculty Brown Bag Lunch on Tuesday, June 19, from 12PM to 12:50PM in Public Affairs 1040
-• Tuesday, June 26, from 2PM to 2:50PM in Public Affairs 1040
-• Thursday, June 28, from 11AM to 11:50AM in Public Affairs 1040
- 
-As always, don’t hesitate to contact me with any questions or comments that you 
-may have!
+One very important change is in how to restore a previous term’s course website.
+Because of the upgrade, all course websites prior to Summer 2012 have been
+moved to a different server, https://archive.ccle.ucla.edu.  How you access the
+sites will remain unchanged; but if you want to reuse materials from one of
+these sites in your current class, please contact me for assistance.
 
-Sincerely,
- 
-P.J. Emery
+I urge you to visit the new CCLE Documentation page (http://docs.ccle.ucla.edu/)
+to learn more about the exciting new features in Moodle 2; this resource will
+continue to be updated throughout the summer, with the goal of being a complete
+guide to CCLE by the beginning of Fall quarter.  And, of course, I’m happy to
+meet and train you individually in the system.  Alternatively, you can attend
+one of our upcoming Moodle 2 Information sessions:
+
+• Monday, July 30, from 11AM to 12PM, in Public Affairs 1023
+• Tuesday, August 7, from 1PM to 2PM, in Public Affairs 1023
+• Wednesday, August 8, from 1PM to 2PM ONLINE (register via
+jlynch@humnet.ucla.edu to receive the link to the webinar)
+• Monday, September 24, from 12PM to 1PM ONLINE (register via
+jlynch@humnet.ucla.edu to receive the link to the webinar)
+• Thursday, September 27, from 10AM to 11AM, in Public Affairs 1023
+
+If you do intend to participate in one of these events, please email John Lynch,
+our Instructional Technology Coordinator, at jlynch@humnet.ucla.edu so that we
+know how many people to expect.  And, as always, don’t hesitate to contact me
+with any questions or comments that you may have!
+
+Best,
+
+Soyeon Kim
 Instructional Technology Consultant
 UCLA Center for Digital Humanities
-1041 Public Affairs Bldg
-Los Angeles, CA  90095
+1041 Public Affairs
+310-825-4864
+soyeonitc@humnet.ucla.edu
 --------------------------------------------
-My schedule: http://www.humnet.ucla.edu/itc/schedules/pjeschedule.html
-Please consider the environment before printing this email.
+Please go to: http://www.humnet.ucla.edu/itc/ for hours and more information.
