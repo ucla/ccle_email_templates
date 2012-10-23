@@ -1,0 +1,19 @@
+Dear Professor #=lastname=#,
+
+Your #=nameterm=# CCLE course website for #=dept=# #=coursenum-sect=# is now available at the following URL:  
+#=url=#
+
+You may now log into your course website with your UCLA Logon ID and password (same credentials as myUCLA).
+
+Please see the following CCLE website for detailed help documentation:
+https://docs.ccle.ucla.edu/w/Main_Page
+
+
+If you have any questions or require assistance, please contact CS Response.  
+
+
+Best regards,
+
+CS Response
+csresponse@anderson.ucla.edu
+310-825-8549
