@@ -1,6 +1,6 @@
-FROM: CCLE <ccle@ucla.edu>
-BCC: Rex Lorenzo <rex@oid.ucla.edu>
-SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
+FROM: CS Response <csresponse@anderson.ucla.edu>
+BCC: Steve Kim <steve.kim@anderson.ucla.edu>
+SUBJECT: #=nameterm=# #=coursenum-sect=# course website created
 Dear Professor #=lastname=#,
 
 Your #=nameterm=# CCLE course website for #=dept=# #=coursenum-sect=# is now available at the following URL:  
