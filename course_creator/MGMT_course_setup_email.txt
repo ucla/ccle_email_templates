@@ -1,3 +1,6 @@
+FROM: CCLE <ccle@ucla.edu>
+BCC: Rex Lorenzo <rex@oid.ucla.edu>
+SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
 Dear Professor #=lastname=#,
 
 Your #=nameterm=# CCLE course website for #=dept=# #=coursenum-sect=# is now available at the following URL:  
