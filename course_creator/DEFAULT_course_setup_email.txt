@@ -6,7 +6,7 @@ Dear Professor #=lastname=#,
 Your #=nameterm=# CCLE course site for #=dept=# #=coursenum-sect=# is now available at the following URL:
 #=url=#
 
-You may access your site my logging in to CCLE with your UCLA Logon ID and password (same credentials as myUCLA).
+You may access your site by logging in to CCLE with your UCLA Logon ID and password (same credentials as myUCLA).
  
 Introducing the Syllabus Manager tool
 At the request of UCLA students, CCLE has made it easier for you to add your syllabus to your course site, and to specify who should have access to its contents.  To access the Syllabus Manager, select “Turn editing on” from the main page of your course site, and click on the "Syllabus" link that will appear on your course menu directly above Site Info.  Via this screen, you can choose to publish your complete course syllabus to the UCLA student body or publish an abridged "preview" syllabus while keeping your full syllabus private for students enrolled in your course.
