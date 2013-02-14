@@ -20,7 +20,7 @@ Additionally, at the request of many faculty, CCLE has improved its integration 
 
 I urge you to visit the CCLE Documentation page (http://docs.ccle.ucla.edu/) to learn more about the exciting new features in Moodle 2. Our team continues to update this site with more text, screenshots and instructional videos, to assist you in getting the most out of CCLE. I’m also happy to meet with you for personalized CCLE training, so please don't hesitate to ask!
 
-Sincerely,
+Sincerely, 
 
 Christopher Wood | Instructional Technology Consultant
 UCLA CENTER FOR DIGITAL HUMANITIES
