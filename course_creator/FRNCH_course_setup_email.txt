@@ -4,25 +4,57 @@ SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
 
 Dear Professor #=lastname=#,
 
-Greetings! You are receiving this email because you are the instructor of record for #=dept=# #=coursenum-sect=#. Your SPRING 2013 course website has been created and can be accessed at the following link:
+Greetings! You are receiving this email because you are the instructor of 
+record for #=dept=# #=coursenum-sect=#. Your SPRING 2013 course website has 
+been created and can be accessed at the following link:
 
 #=url=#
 
-Please contact me if this course is cross-listed, multi-listed, or unofficially joined to another course, and you would like one website for both courses.
+Please contact me if this course is cross-listed, multi-listed, or 
+unofficially joined to another course, and you would like one website for both 
+courses.
 
-As your Instructional Technology Consultant (ITC), I am happy to answer any questions that you may have about your course website, CCLE in general, or any other aspect of instructional technology. Just email me at chrisitc@humnet.ucla.edu. Since I only work part-time, you can also usually reach someone on the ITC team between 10AM and 4PM on weekdays by emailing itc@humnet.ucla.edu or phoning 310-825-4864 (x54864 on campus).
+As your Instructional Technology Consultant (ITC), I am happy to answer any 
+questions that you may have about your course website, CCLE in general, or any 
+other aspect of instructional technology. Just email me at 
+chrisitc@humnet.ucla.edu. Since I only work part-time, you can also usually 
+reach someone on the ITC team between 10AM and 4PM on weekdays by emailing 
+itc@humnet.ucla.edu or phoning 310-825-4864 (x54864 on campus).
 
-Because of last summer's upgrade of the CCLE system from Moodle 1.9 to 2, there have been changes in how to restore a previous term's course website. If you already know how to do so, I encourage you to try restoring your course website yourself. However, if you encounter any difficulties, please contact me immediately, rather than continuing to try to restore the site by yourself. I appreciate your patience as CCLE irons out these issues. You can find all course websites prior to Summer 2012 at https://archive.ccle.ucla.edu.
+Because of last summer's upgrade of the CCLE system from Moodle 1.9 to 2, 
+there have been changes in how to restore a previous term's course website. If 
+you already know how to do so, I encourage you to try restoring your course 
+website yourself. However, if you encounter any difficulties, please contact 
+me immediately, rather than continuing to try to restore the site by yourself. 
+You can find all course websites prior to Summer 2012 at 
+https://archive.ccle.ucla.edu.
 
-As you may have heard, CCLE has also introduced a new Syllabus tool at the request of the student body, and has spent the last quarter making improvements requested by the faculty and student body. Now, when you log into your course website, you will immediately be prompted to upload your syllabus. From here, you will be able to upload and publish either a complete course syllabus to the UCLA student body, or an abridged “preview” syllabus, while keeping your full syllabus available to only those students enrolled in your course. 
+As you may have heard, CCLE has also introduced a new Syllabus tool at the 
+request of the student body, and has spent the last quarter making 
+improvements requested by the faculty and student body. Now, when you log into 
+your course website, you will immediately be prompted to upload your syllabus. 
+From here, you will be able to upload and publish either a complete course 
+syllabus to the UCLA student body, or an abridged “preview” syllabus, while 
+keeping your full syllabus available to only those students enrolled in your 
+course. 
 
-Additionally, at the request of many faculty, CCLE has improved its integration with the MyUCLA Gradebook. Now, grades awarded in CCLE activities will be transferred directly to the MyUCLA Gradebook, where you can assign them to items in your MyUCLA grade schema, if you feel so inclined. Since managing online grading and gradebooks can become very complicated, please feel free to contact me if you have any questions.
+Additionally, at the request of many faculty, CCLE has improved its 
+integration with the MyUCLA Gradebook. Now, grades awarded in CCLE activities 
+will be transferred directly to the MyUCLA Gradebook, where you can assign 
+them to items in your MyUCLA grade schema, if you feel so inclined. Since 
+managing online grading and gradebooks can become very complicated, please 
+feel free to contact me if you have any questions.
 
-I urge you to visit the CCLE Documentation page (http://docs.ccle.ucla.edu/) to learn more about the exciting new features in Moodle 2. Our team continues to update this site with more text, screenshots and instructional videos, to assist you in getting the most out of CCLE. I’m also happy to meet with you for personalized CCLE training, so please don't hesitate to ask!
+I urge you to visit the CCLE Documentation page (http://docs.ccle.ucla.edu/) 
+to learn more about the exciting new features in Moodle 2. Our team continues 
+to update this site with more text, screenshots and instructional videos, to
+assist you in getting the most out of CCLE. I’m also happy to meet with you 
+for personalized CCLE training, so please don't hesitate to ask!
 
 Sincerely,
 
 Christopher Wood | Instructional Technology Consultant
 UCLA CENTER FOR DIGITAL HUMANITIES
 chrisitc@humnet.ucla.edu
-Hours: Mon. 9-3, Tues. 9-11 &12:30-3, Wed. 12-4 (Meeting 1-3), Th 9-11 & 12:30-3
+Hours: Mon. 9-3, Tues. 9-11 &12:30-3, Wed. 12-4 (Meeting 1-3), Th 9-11 
+& 12:30-3
