@@ -1,58 +1,37 @@
-FROM: Dawn Fratini <dawnitc@humnet.ucla.edu>
+FROM: CDH RITCs <ritc@humnet.ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
 
-Dear Professor #=lastname=#,
+Dear Prof. #=lastname=# (#=to=#):
 
-Greetings! You are receiving this email because you are the instructor of 
-record for #=dept=# #=coursenum-sect=#. Your SUMMER 2013 course website has 
-been created and can be accessed at the following link:
-
+Your #=nameterm=# CCLE course web site for #=dept=# #=coursenum-sect=# is:
 #=url=#
 
-Please contact me if this course is cross-listed, multi-listed, or unofficially
-joined to another course, and you would like one website for both Courses.
- 
-As your Instructional Technology Consultant (ITC), I am happy to answer any 
-questions that you may have about your course website, CCLE in general, or any 
-other aspect of instructional technology. Just email me at 
-dawnitc@humnet.ucla.edu. Since I only work part-time, you can also usually 
-reach someone on the ITC team between 10AM and 4PM on weekdays by emailing 
-itc@humnet.ucla.edu or phoning 310-825-4864 (x54864 on campus).
+You can now login to your course with your UCLA Logon ID and password, just as
+you would access your My.UCLA.
 
-CCLE continues to make improvements to help you and your students better 
-achieve your goals. You may have already noticed the new Syllabus tool, which 
-will prompt you to upload your syllabus when you first log into your course 
-website. Developed at the request of the student body, this tool makes your 
-syllabus easier to find for students deciding which courses to take.
+IMPORTANT ANNOUNCEMENT ABOUT CCLE SUPPORT FOR FALL 2013
 
-Additionally, at the request of many faculty, CCLE now pushes grades directly 
-to the MyUCLA Gradebook, where you may assign them to items in your MyUCLA 
-grade schema. Since CDH does not manage the MyUCLA Gradebook, I can offer you 
-only limited support with this feature; but please don't hesitate to ask me. 
-If I can't answer your question, I'll know who can.
+In response to your requests, we are streamlining the way we provide CCLE
+support. Instead of asking you to contact a specific ITC to get support, you
+can now email all of your CCLE and instructional technology request needs to
+one address, ritc@humnet.ucla.edu, that will be checked throughout the day by
+our new team of Research and Instructional Technology Consultants (RITCs).
+This should dramatically increase the rate at which we are able to respond to
+your requests and eliminate the problem of support requests being overlooked.
+If you have any questions about the other services that the RITC team can
+offer, you can find a description of the new program at
+http://bit.ly/RITCsupport.
 
-If you don't already know, CCLE also has the ability to restrict access to 
-files and activities (such as quizzes and assignments) to specific dates and 
-times. This feature can save you the trouble of manually enforcing deadlines 
-or making materials available to students. Please keep in mind that if you use 
-this feature, you should set times that are during our business hours (Summer 
-hours: M-F, 11AM-3PM), so that we can better support your students if they 
-encounter any difficulties.
+Please expect us to be in touch again in early September with information
+about the upgrades to CCLE that will be coming this Fall, as well as our slate
+of CCLE training and site development opportunities. Meanwhile, please contact
+us if you have any other questions about this new workflow, or about the new
+RITC program (the successor to our ITC program).
 
-Finally, I urge you to visit the CCLE Documentation page (http://docs.ccle.
-ucla.edu/) to learn more about the exciting new features in Moodle 2. Our team 
-continues to update this site with more text, screenshots and instructional 
-videos, to assist you in getting the most out of CCLE. I’m also happy to meet 
-with you for personalized CCLE training, so please don't hesitate to ask!
- 
-Sincerely,
+We're very excited to be working with you this coming year.
 
-Dawn Fratini | Instructional Technology Consultant
-UCLA CENTER FOR DIGITAL HUMANITIES
-1041 Public Affairs | 310-825-4864
-dawnitc@humnet.ucla.edu
+Best regards,
 
-Hours: M 11:00-4, T online 9:00-1:00, W 10:30-1:00, Th 10:30-4
-Please contact itc@humnet.ucla.edu if you need immediate support when I'm 
-unavailable
+The CDH Research & Instructional Technology Consultants (RITCs)
+ritc@humnet.ucla.edu
