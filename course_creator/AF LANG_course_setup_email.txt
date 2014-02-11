@@ -1,4 +1,4 @@
-FFROM: CDH RITCs <ritc@humnet.ucla.edu>
+FROM: CDH RITCs <ritc@humnet.ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
  
@@ -10,7 +10,7 @@ Your #=nameterm=# CCLE course web site for #=dept=# #=coursenum-sect=# is:
 You can now login to your course with your UCLA Logon ID and password, just as
 you would access your My.UCLA.
  
-IMPORTANT REMINDER ABOUT CCLE SUPPORT FOR WINTER 2014
+IMPORTANT REMINDER ABOUT CCLE SUPPORT FOR SPRING 2014
  
 In response to your requests, we are streamlining the way we provide CCLE
 support.  You can now email all of your CCLE and instructional technology 
