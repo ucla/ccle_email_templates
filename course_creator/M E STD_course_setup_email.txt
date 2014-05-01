@@ -1,31 +1,31 @@
 FROM: CDH RITCs <ritc@humnet.ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
- 
+
 Dear Prof. #=lastname=# (#=to=#):
- 
+
 Your #=nameterm=# CCLE course web site for #=dept=# #=coursenum-sect=# is:
 #=url=#
- 
+
 You can now login to your course with your UCLA Logon ID and password, just as
 you would access your My.UCLA.
- 
-IMPORTANT REMINDER ABOUT CCLE SUPPORT FOR SPRING 2014
- 
+
+IMPORTANT REMINDER ABOUT CCLE SUPPORT FOR SUMMER 2014
+
 In response to your requests, we are streamlining the way we provide CCLE
-support.  You can now email all of your CCLE and instructional technology 
-requests to one address, ritc@humnet.ucla.edu. This account is checked 
-throughout the day by our team of Research and Instructional Technology 
-Consultants (RITCs).  If you have any questions about the other services that 
-the RITC team can offer, you can find a description of the new program at 
+support. You can now email all of your CCLE and instructional technology
+requests to one address, ritc@humnet.ucla.edu. This account is checked
+throughout the day by our team of Research and Instructional Technology
+Consultants (RITCs). If you have any questions about the other services that
+the RITC team can offer, you can find a description of the program at 
 http://bit.ly/RITCsupport.
- 
-Please don't hesitate to contact us if you have any other questions about this 
-new workflow, or about the RITC program (the successor to our ITC program).
- 
-We're very excited to be working with you again this quarter.
- 
+
+Please don't hesitate to contact us if you have any other questions about this
+new workflow, or about the RITC program (the successor to our ITC program). 
+
+We're very happy to be working with you again for the summer session.
+
 Best regards,
- 
+
 The CDH Research & Instructional Technology Consultants (RITCs)
 ritc@humnet.ucla.edu
