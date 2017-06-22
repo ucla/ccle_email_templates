@@ -1,0 +1,17 @@
+FROM: <sangeeta@law.ucla.edu>
+BCC: Rex Lorenzo <rex@oid.ucla.edu>
+SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
+Dear Professor #=lastname=#,
+ 
+Your #=dept=# #=coursenum-sect=# (#=nameterm=#) course site in now available at the following url:
+#=url=#
+
+- Have questions about using CCLE? -
+
+Documentation is available at:
+https://docs.ccle.ucla.edu
+
+- Help us improve CCLE -
+
+Contact your local CCLE Support staff with suggestions:
+https://ccle.ucla.edu/course/view/aboutccle?section=8
