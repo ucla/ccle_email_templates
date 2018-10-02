@@ -1,4 +1,4 @@
-FROM: <salyards@ess.ucla.edu>
+FROM: <roconnor@epss.ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
 Dear Professor #=lastname=#,
