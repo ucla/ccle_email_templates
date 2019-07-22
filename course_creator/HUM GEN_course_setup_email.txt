@@ -1,4 +1,4 @@
-FROM: <ckravit@mednet.ucla.edu>
+FROM: <edtech@mednet.ucla.edu>
 BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
 Dear Professor #=lastname=#,
