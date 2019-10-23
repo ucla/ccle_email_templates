@@ -11,7 +11,7 @@ DEFAULT_course_setup_email.txt.
 
 Here is an example email template:
 
-    FROM: CCLE <ccle@ucla.edu>
+    FROM: CCLE <noreply@ccle.ucla.edu>
     SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
     Dear Prof. #=lastname=# (#=to=#)
 

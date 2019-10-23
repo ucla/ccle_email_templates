@@ -1,4 +1,4 @@
-FROM: CCLE <ccle@ucla.edu>
+FROM: CCLE <noreply@ccle.ucla.edu>
 SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
 Dear Professor #=lastname=#,
  
