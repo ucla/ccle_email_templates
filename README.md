@@ -12,24 +12,24 @@ DEFAULT_course_setup_email.txt.
 Here is an example email template:
 
     FROM: CCLE <ccle@ucla.edu>
-    BCC: Rex Lorenzo <rex@oid.ucla.edu>
     SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
     Dear Prof. #=lastname=# (#=to=#)
 
-    Your #=nameterm=# CCLE course web site for #=dept=# #=coursenum-sect=# is:
+    Your #=dept=# #=coursenum-sect=# (#=nameterm=#) course site in now available at the following url:
     #=url=#
 
-    You can now login to your course with your UCLA Logon ID and password, just as 
-    you would access your My.UCLA. 
+    - Have questions about using CCLE? -
 
-    For help:
-    * Contact your CCLE local support listed at https://pilot.ccle.ucla.edu/course/view.php?id=110&topic=8
-    * Find CCLE help documentation at https://pilot.ccle.ucla.edu/course/view.php?id=110&topic=1
+    Documentation is available at:
+    https://docs.ccle.ucla.edu
 
-    Thank you,
+    CCLE Office Hours | Mon, Wed, Fri 12 pm - 1 pm | Tues & Thurs,  11:30 am - 12:30 pm
+    https://ccle.ucla.edu/course/view/ccleofficehours
 
-    The CCLE Team
-    ccle@ucla.edu
+    - Help us improve CCLE -
+
+    Contact your local CCLE Support staff with suggestions:
+    https://ccle.ucla.edu/mod/page/view.php?id=209487
 
 Notes:
 * The first three lines are headers. They are used to specify the from, bcc, and subject area fields

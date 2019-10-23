@@ -1,5 +1,4 @@
 FROM: CDH RITCs <ritc@humnet.ucla.edu>
-BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=nameterm=# #=coursenum-sect=# class site created
  
 Dear Prof. #=lastname=# (#=to=#):

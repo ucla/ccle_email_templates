@@ -1,5 +1,4 @@
 FROM: <ccle-support@stat.ucla.edu>
-BCC: Rex Lorenzo <rex@oid.ucla.edu>
 SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
 Dear Professor #=lastname=#,
  
@@ -11,7 +10,10 @@ Your #=dept=# #=coursenum-sect=# (#=nameterm=#) course site in now available at 
 Documentation is available at:
 https://docs.ccle.ucla.edu
 
+CCLE Office Hours | Mon, Wed, Fri 12 pm - 1 pm | Tues & Thurs,  11:30 am - 12:30 pm
+https://ccle.ucla.edu/course/view/ccleofficehours
+
 - Help us improve CCLE -
 
 Contact your local CCLE Support staff with suggestions:
-https://ccle.ucla.edu/course/view/aboutccle?section=8
+https://ccle.ucla.edu/mod/page/view.php?id=209487
