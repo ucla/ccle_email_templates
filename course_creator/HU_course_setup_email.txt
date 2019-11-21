@@ -6,17 +6,16 @@ Dear Prof. #=lastname=# (#=to=#):
 Your #=nameterm=# CCLE course web site for #=dept=# #=coursenum-sect=# is:
 #=url=#
  
-You may login to your course with your UCLA Logon ID and password, just as
-you would access your My.UCLA
+Log in with your UCLA Logon ID and password, just as you would access other campus systems such as MyUCLA.
 
-As a reminder, you can now email all of your CCLE and instructional technology
-requests to one address, ritc@humnet.ucla.edu. This account is checked
-throughout the day by our team of Research and Instructional Technology
-Consultants (RITCs).
+As a reminder, you may email all of your CCLE and instructional technology requests to our Research and Instructional Technology Consultants (ritc@humnet.ucla.edu), or contact us to schedule an appointment.
 
 Please don't hesitate to contact us if you have any questions.
 
 Best regards,
 
-The CDH Research & Instructional Technology Consultants (RITCs)
+The Humanities Technology Research & Instructional Technology Consultants (RITCs)
 ritc@humnet.ucla.edu
+310-825-4864
+
+https://humtech.ucla.edu/instructional-support/
