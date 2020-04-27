@@ -1,7 +1,7 @@
-FROM: <dmac@physics.ucla.edu>
+FROM: <awan@physics.ucla.edu>
 SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
 Dear Professor #=lastname=#,
- 
+
 Your #=dept=# #=coursenum-sect=# (#=nameterm=#) course site in now available at the following url:
 #=url=#
 
