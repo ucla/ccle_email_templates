@@ -1,16 +1,29 @@
 FROM: <help@ssc.ucla.edu>
+BCC: ClassWeb Help <help@ssc.ucla.edu>
 SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
 Dear Professor #=lastname=#,
  
 Your #=dept=# #=coursenum-sect=# (#=nameterm=#) course site in now available at the following url:
 #=url=#
 
-- Have questions about using CCLE? -
+If there are any additional courses that need to be linked to this class site (i.e. multi-listed, cross-listed, or unofficially joined courses) or if you need a graduate course website, please contact help@ssc.ucla.edu.
 
-Documentation is available at:
-https://docs.ccle.ucla.edu
+The Social Sciences Division will be moving to the CCLE Shared System beginning Fall 2020. Your course website experience will reamin the same and we will continue to provide support for your course websites. All past course sites will remain available on CCLE Social Sciences. 
 
-- Help us improve CCLE -
+You can sign up for one-on-one demo sessions, request old course materials to be imported to your current class sites, or report any problems you are having with your class site by contacting the SSC Help Desk (help@ssc.ucla.edu). Please tell your students to report any problems via the NEED HELP Link at the top of every Moodle class website.
 
-Contact your local CCLE Support staff with suggestions:
-https://ccle.ucla.edu/mod/page/view.php?id=209487
+This class website is linked from the following websites:
+https://sa.ucla.edu/ro/public/soc (Registrar Schedule of Classes) http://my.ucla.edu/ 
+
+ * TAs won't appear on the website until they give their section choices to your dept. scheduler for input to the Registrar system. 
+
+ * Important links:
+   - http://www.bruintech.ucla.edu/
+   - http://my.ucla.edu/
+   - http://www.bol.ucla.edu/
+   - http://socialsciences.ucla.edu/
+   - http://computing.sscnet.ucla.edu/
+
+Kevin Kitagawa           
+Social Sciences Center for Education, Research, and Technology
+Help Desk email: help@ssc.ucla.edu
