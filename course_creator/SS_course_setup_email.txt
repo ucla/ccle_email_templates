@@ -1,5 +1,5 @@
 FROM: <help@ssc.ucla.edu>
-BCC: ClassWeb Help <help@ssc.ucla.edu>
+Bcc: ClassWeb Help <help@ssc.ucla.edu>
 SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
 Dear Professor #=lastname=#,
  
