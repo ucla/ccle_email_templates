@@ -1,0 +1,27 @@
+FROM: Carla Pestana <historyweb@history.ucla.edu>
+BCC: ClassWeb Help <help@ssc.ucla.edu>, History Webtechs <historyweb@history.ucla.edu>
+SUBJECT: #=coursenum-sect=# (#=nameterm=#) course site created
+Dear Professor #=lastname=#,
+
+It's that time again:  new class websites have been set up for the upcoming quarter, and our Webtechs, Sanjana Sarda, Haley Rao, Kimberly Shi, and Justine Lin are already posting materials for the new classes. If you don't want your full syllabus to be available to the public on the web, please provide them with an excerpt that gives potential students at least an idea of what to expect in the class. 
+
+Sanjana, Haley, Kimberly, and Justine need to have your syllabi one month before the new classes begin.  Students will soon be planning their schedules,  and it's to your advantage to let them know what your class entails.  As with all web-related postings, please email them to historyweb@history.ucla.edu as an attachment.
+
+Your #=dept=# #=coursenum-sect=# (#=nameterm=#) course site in now available at the following url:
+#=url=#
+
+If there are any additional courses that need to be linked to this class site (i.e. multi-listed, cross-listed, or unofficially joined courses) or if you need a graduate course website, please contact help@ssc.ucla.edu.
+
+The Social Sciences Division will be moving to the CCLE Shared System beginning Fall 2020. Your course website experience will remain the same and we will continue to provide support for your course websites. All past course sites will remain available on CCLE Social Sciences. 
+
+These class web sites are also visible from the History Department's web site at http://www.history.ucla.edu/academics/courses, the Registrar's Online Schedule of Classes (https://sa.ucla.edu/ro/public/soc), and from MyUCLA (http://my.ucla.edu/).
+
+You can visit this site to find more information about Moodle: https://moodle2.sscnet.ucla.edu/course/view/Intro. You have options open to you for developing the hypermedia component to your classes. You will find it easy to add announcements, links to other web sites, upload files (text, graphics, sound or video) and even create practice quizzes or surveys. The uploaded material is private (password protected), but can be made publicly accessible.  The History discussion boards are "authenticated," requiring students be on the class roster and enter their UCLA logon id to post messages.
+
+One of the features of this program is that it allows you to administer your own web site, should you want to do so. Administrative functions are accessible by clicking on the "Turn editing on" link or the "Admin Panel" button found at the top right side of your class page.
+
+Sanjana, Haley, Kimberly, and Justine are happy to talk with you about the options available for your class web site and to build your site according to your own pedagogical preferences.  In addition, they are available to work with you and your teaching assistants in making use of instructional technologies that work within the framework of your classes.  Their email address is: historyweb@history.ucla.edu. 
+
+Thank you in advance for your assistance,
+
+Carla Pestana, Chair
